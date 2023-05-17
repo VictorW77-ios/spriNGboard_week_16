@@ -1,0 +1,24 @@
+These are my notes for exercise 2:
+
+The terminal output this when I ran python --version: 
+The `python' command exists in these Python versions:
+  3.6.15
+  3.10.9
+
+After setting the environment for project_a, the terminal output version:
+Python 3.10.9 
+
+Moving up a directory and running the same version cmd output: 
+pyenv: python: command not found
+pyenv: version `/pyenv_versions//3.10.9/envs/project_a_env' not installed
+
+The `python' command exists in these Python versions:
+  3.6.15
+  3.10.9
+  project_a_env
+
+
+
+
+
+
