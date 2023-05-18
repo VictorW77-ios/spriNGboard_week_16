@@ -20,9 +20,13 @@ setuptools 65.5.0
 `pip list` in Project D: 
 Package    Version
 ---------- -------
-numpy      1.24.3
+[numpy      1.24.3] (originally didn't have numpy installed)
 pip        23.1.2
 setuptools 65.5.0
+
+- Each env had to have numpy and pip installed independently, as they are separate environments. 
+
+
 
 
 
