@@ -4,6 +4,28 @@ The output when I first tried to run Project C:
     import numpy as np
 ModuleNotFoundError: No module named 'numpy'``
 
+When trying to run Project D, the terminal output the same error message: 
+``Traceback (most recent call last):
+  File "/projects/exercise_03_pip/project_d/runme.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy' `` 
+
+`pip list` in Project C:
+Package    Version
+---------- -------
+numpy      1.24.3
+pip        23.1.2
+setuptools 65.5.0
+
+`pip list` in Project D: 
+Package    Version
+---------- -------
+numpy      1.24.3
+pip        23.1.2
+setuptools 65.5.0
+
+
+
 
 
 
