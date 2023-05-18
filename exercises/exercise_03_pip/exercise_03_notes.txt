@@ -1,1 +1,9 @@
-These are my notes for exercise 3
+The output when I first tried to run Project C: 
+``Traceback (most recent call last):
+  File "/projects/exercise_03_pip/project_c/runme.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'``
+
+
+
+
